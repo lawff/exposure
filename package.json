@@ -1,6 +1,6 @@
 {
   "name": "@lawlietff/exposure",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "packageManager": "pnpm@6.32.3",
   "description": "handle dom exposure",
   "keywords": [
