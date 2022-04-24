@@ -1,6 +1,6 @@
 # lawlietff exposure
 
-[![NPM version](https://img.shields.io/npm/v/@lawlietff/exposure?color=a1b858&label=)](https://www.npmjs.com/package/@lawlietff/core)
+[![NPM version](https://img.shields.io/npm/v/@lawlietff/exposure?color=a1b858&label=)](https://www.npmjs.com/package/@lawlietff/exposure)
 
 > A Function to observe an element
 
