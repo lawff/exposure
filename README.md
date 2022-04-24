@@ -1,21 +1,21 @@
 # lawlietff exposure
 
-[![NPM version](https://img.shields.io/npm/v/ad-exposure?color=a1b858&label=)](https://www.npmjs.com/package/@lawlietff/core)
+[![NPM version](https://img.shields.io/npm/v/@lawlietff/exposure?color=a1b858&label=)](https://www.npmjs.com/package/@lawlietff/core)
 
 > A Function to observe an element
 
 ## install
 
 ```bash
-npm install ad-exposure
+npm install @lawlietff/exposure
 ```
 
 ## usage
 
 ```js
-import { adExposure } from 'ad-exposure'
+import { lawffExposure } from '@lawlietff/exposure'
 
-adExposure({
+lawffExposure({
   ele: dom,
   callback: (entry) => {},
 })

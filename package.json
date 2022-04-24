@@ -8,16 +8,8 @@
     "dom",
     "exposure"
   ],
-  "homepage": "https://github.com/evillawliet/ad-exposure#readme",
-  "bugs": {
-    "url": "https://github.com/evillawliet/ad-exposure/issues"
-  },
   "license": "MIT",
   "author": "lawliet",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/evillawliet/ad-exposure.git"
-  },
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
